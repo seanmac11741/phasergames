@@ -10,3 +10,10 @@ important to remember, different from regular JS
 
 part 4
 http://phaser.io/tutorials/making-your-first-phaser-3-game/part4
+
+that was easy... too easy almost....
+
+new tutorial: https://www.youtube.com/watch?v=ECE1Al-M4DM&list=PLitFP8FdScfHcJQ-kDmm0i6aOhinVO7ND&index=2
+part1 setup, done
+part2 scenes
+  
